@@ -1,5 +1,6 @@
 * explain git
 ** show history
+** branches?!?!
 * explain github
 * ???
 * profit!
