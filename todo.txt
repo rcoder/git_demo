@@ -1,4 +1,5 @@
 * explain git
+** show history
 * explain github
 * ???
 * profit!
